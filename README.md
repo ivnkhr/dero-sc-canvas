@@ -1,1 +1,1 @@
-# dero-sc-canvas
+# DERO Canvas
